@@ -82,7 +82,7 @@
     
 //         return amount * tax;
 //         // console.log(amount * tax)
-//     }
+//     } 
 //    return calculteTax;
   
 // }
